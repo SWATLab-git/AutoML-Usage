@@ -1,0 +1,11 @@
+AutoML,model monitoring,model training,model evaluation,feature engineering,model requirements,data cleaning,Others,data collection,model deployment,data labeling,hyperparameter optimization,TOTAL,,model monitoring,model training,model evaluation,feature engineering,model requirements,data cleaning,Others,data collection,model deployment,data labeling,hyperparameter optimization
+skopt,0,1,1,0,0,0,1,0,0,0,29,32,,,,,,,,,,,,
+snorkel,0,12,12,2,0,16,3,7,1,20,1,74,,,,,,,,,,,,
+autosklearn,3,19,33,4,0,4,4,2,1,1,3,74,,,,,,,,,,,,
+featuretools,1,0,0,27,0,3,3,5,0,0,0,39,,,,,,,,,,,,
+hyperopt,2,0,0,3,0,1,1,6,0,0,39,52,,,,,,,,,,,,
+tpot,2,10,8,4,0,5,2,0,8,0,4,43,,,,,,,,,,,,
+ax,2,2,2,0,0,2,6,0,1,0,33,48,,,,,,,,,,,,
+optuna,17,3,1,0,1,4,9,2,1,0,102,140,,,,,,,,,,,,
+bayes_opt,1,0,0,0,0,0,3,0,0,0,15,19,,,,,,,,,,,,
+autokeras,0,34,21,7,0,3,3,3,6,0,7,84,,,,,,,,,,,,

@@ -1,0 +1,58 @@
+AutoML,repo,configs,function_calls,unique_files,projects,size,stars,commits,contributors,age,forks,releases,pr,issues,descriptions
+microsoft/nni,nni,nni,6296.0,1159,316,55633.0,10596.0,24.0,139.0,5,1477.0,32.0,2768.0,4189.0,"An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning."
+EpistasisLab/tpot,tpot,tpot,13725.0,2893,1796,79030.0,8349.0,24.0,70.0,2,1437.0,27.0,402.0,1234.0,A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+keras-team/autokeras,autokeras,autokeras,10331.0,1259,550,44487.0,8241.0,13.0,120.0,11,1334.0,53.0,784.0,1568.0,AutoML library for deep learning
+uber/ludwig,ludwig,ludwig,25.0,511,53,20381.0,7988.0,23.0,97.0,10,955.0,11.0,887.0,1503.0,Data-centric declarative deep learning framework
+hyperopt/hyperopt,hyperopt,hyperopt,20903.0,5271,4432,6059.0,5955.0,12.0,87.0,2,925.0,0.0,246.0,828.0,Distributed Asynchronous Hyperparameter Optimization in Python
+automl/auto-sklearn,auto-sklearn,autosklearn,8909.0,974,543,74993.0,5870.0,26.0,65.0,4,1092.0,29.0,519.0,1320.0,Automated Machine Learning with scikit-learn
+Featuretools/featuretools,featuretools,featuretools,14786.0,1053,548,5888.0,5864.0,9.0,55.0,2,769.0,94.0,1094.0,1790.0,An open source python library for automated feature engineering
+optuna/optuna,optuna,optuna,34916.0,5482,3140,13577.0,5553.0,110.0,142.0,9,602.0,41.0,2125.0,3108.0,A hyperparameter optimization framework
+fmfn/BayesianOptimization,BayesianOptimization,"['BayesianOptimization', 'bayes_opt']",11582.0,3128,2605,23290.0,5543.0,2.0,20.0,3,1222.0,7.0,79.0,295.0,A Python implementation of global optimization with gaussian processes.
+snorkel-team/snorkel,snorkel,snorkel,8237.0,853,264,292468.0,4922.0,27.0,63.0,8,797.0,14.0,713.0,1674.0,A system for quickly generating training data with weak supervision
+google/automl,automl,automl,13.0,2,54,26109.0,4743.0,7.0,33.0,7,1250.0,3.0,305.0,1119.0,Google Brain AutoML
+pycaret/pycaret,pycaret,pycaret,6630.0,842,1508,119634.0,4370.0,20.0,56.0,11,1008.0,14.0,506.0,1695.0,"An open-source, low-code machine learning library in Python"
+mindsdb/mindsdb,mindsdb,"['minddb', 'mindsdb']",437.0,86,15,94799.0,4092.0,46.0,79.0,3,548.0,78.0,974.0,1742.0,Predictive AI layer for existing databases.
+awslabs/autogluon,autogluon,autogluon,6603.0,839,300,9459.0,3826.0,8.0,59.0,3,501.0,14.0,775.0,1326.0,"AutoGluon: AutoML for Text, Image, and Tabular Data"
+tensorflow/adanet,adanet,adanet,1199.0,143,41,2575.0,3341.0,5.0,24.0,2,528.0,11.0,49.0,161.0,Fast and flexible AutoML with learning guarantees.
+nidhaloff/igel,igel,"['Igel', 'igel']",53.0,22,6,19706.0,2951.0,5.0,17.0,2,146.0,14.0,50.0,95.0,"a delightful machine learning tool that allows you to train, test, and use models without writing code"
+keras-team/keras-tuner,keras-tuner,kerastuner,4840.0,1052,836,1817.0,2409.0,9.0,35.0,4,311.0,8.0,265.0,619.0,Hyperparameter tuning for humans
+salesforce/Merlion,Merlion,merlion,698.0,66,10,83503.0,2248.0,1.0,6.0,3,168.0,3.0,21.0,46.0,Merlion: A Machine Learning Framework for Time Series Intelligence
+scikit-optimize/scikit-optimize,scikit-optimize,skopt,20313.0,2807,1830,9423.0,2238.0,16.0,66.0,6,424.0,23.0,506.0,1089.0,Sequential model-based optimization with a  `scipy.optimize` interface
+microsoft/forecasting,forecasting,fclib,102.0,26,6,28288.0,2096.0,13.0,15.0,8,359.0,3.0,155.0,234.0,Time Series Forecasting Best Practices & Examples
+Palashio/libra,libra,libra,0,0,2,190626.0,1923.0,14.0,28.0,5,115.0,11.0,201.0,373.0,Ergonomic machine learning for everyone.
+mljar/mljar-supervised,mljar-supervised,supervised,19.0,4,54,8681.0,1672.0,10.0,14.0,11,230.0,46.0,40.0,477.0,"Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation"
+facebook/Ax,Ax,ax,8442.0,722,213,283337.0,1649.0,16.0,69.0,9,178.0,23.0,429.0,729.0,Adaptive Experimentation Platform
+microsoft/FLAML,FLAML,flaml,570.0,97,64,20629.0,1591.0,2.0,19.0,3,201.0,21.0,152.0,264.0,A fast and lightweight AutoML library.
+learnables/learn2learn,learn2learn,learn2learn,4790.0,454,112,9232.0,1555.0,4.0,19.0,2,223.0,8.0,135.0,287.0,A PyTorch Library for Meta-learning Research
+determined-ai/determined,determined,determined,580.0,90,68,50732.0,1544.0,30.0,40.0,7,187.0,48.0,3110.0,3234.0,Determined: Deep Learning Training Platform
+tristandeleu/pytorch-meta,pytorch-meta,torchmeta,1616.0,326,138,1133.0,1497.0,4.0,10.0,9,188.0,0.0,26.0,144.0,A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
+automl/Auto-PyTorch,Auto-PyTorch,autoPyTorch,1860.0,200,26,10107.0,1437.0,3.0,12.0,11,172.0,2.0,158.0,342.0,Automatic architecture search and hyperparameter optimization for PyTorch
+mit-han-lab/once-for-all,once-for-all,ofa,1807.0,201,51,6008.0,1382.0,1.0,9.0,10,245.0,1.0,9.0,63.0,[ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment
+D-X-Y/AutoDL-Projects,AutoDL-Projects,nats_bench,511.0,128,22,11449.0,1302.0,6.0,6.0,8,254.0,0.0,5.0,105.0,Automated deep learning algorithms implemented in PyTorch.
+hyperopt/hyperopt-sklearn,hyperopt-sklearn,hpsklearn,1114.0,184,6,2091.0,1282.0,2.0,20.0,3,248.0,0.0,62.0,178.0,Hyper-parameter optimization for sklearn
+Yelp/MOE,MOE,moe,2385.0,299,433,11920.0,1280.0,10.0,6.0,0,140.0,4.0,169.0,478.0,"A global, black box optimization engine for real world metric optimization."
+AxeldeRomblay/MLBox,MLBox,mlbox,521.0,36,45,52434.0,1261.0,12.0,4.0,2,263.0,7.0,43.0,132.0,MLBox is a powerful Automated Machine Learning python library.
+DataCanvasIO/Hypernets,Hypernets,hypernets,2875.0,267,15,13853.0,1031.0,8.0,7.0,5,156.0,7.0,47.0,64.0,A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.
+joeddav/devol,devol,devol,73.0,15,13,85.0,935.0,2.0,9.0,4,120.0,0.0,12.0,39.0,Genetic neural architecture search with Keras
+THUMNLab/AutoGL,AutoGL,autogl,54.0,9,302,20454.0,710.0,3.0,7.0,11,70.0,2.0,47.0,61.0,An autoML framework & toolkit for machine learning on graphs.
+HunterMcGushion/hyperparameter_hunter,hyperparameter_hunter,hyperparameter_hunter,905.0,100,4,7628.0,676.0,11.0,2.0,7,91.0,16.0,101.0,217.0,Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
+automl/SMAC3,SMAC3,smac,0,0,124,47464.0,630.0,21.0,26.0,2,170.0,28.0,449.0,797.0,Sequential Model-based Algorithm Configuration
+dragonfly/dragonfly,dragonfly,dragonfly,7155.0,874,215,1083.0,605.0,4.0,9.0,2,202.0,0.0,35.0,84.0,An open source python library for scalable Bayesian optimisation.
+HDI-Project/ATM,ATM,atm,0,0,109,8987.0,513.0,8.0,12.0,4,133.0,6.0,72.0,160.0,"Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning)."
+alteryx/evalml,evalml,evalml,4592.0,240,52,20715.0,420.0,15.0,23.0,4,55.0,51.0,1550.0,3061.0,EvalML is an AutoML library written in python.
+claesenm/optunity,optunity,optunity,410.0,138,99,3778.0,377.0,8.0,9.0,11,73.0,3.0,9.0,104.0,optimization routines for hyperparameter tuning
+microsoft/archai,archai,archai,442.0,88,2,109116.0,313.0,5.0,9.0,7,63.0,0.0,29.0,42.0,Reproducible Rapid Research for Neural Architecture Search (NAS)
+nccr-itmo/FEDOT,FEDOT,fedot,4482.0,391,22,116804.0,259.0,5.0,17.0,10,32.0,6.0,269.0,494.0,Automated modeling and machine learning framework FEDOT
+walkerning/aw_nas,aw_nas,aw_nas,700.0,79,1,3764.0,187.0,5.0,13.0,3,19.0,0.0,27.0,59.0,aw_nas: A Modularized and Extensible NAS Framework
+LGE-ARC-AdvancedAI/auptimizer,auptimizer,aup,120.0,23,15,52949.0,179.0,1.0,8.0,5,23.0,3.0,16.0,21.0,An automatic ML model optimization tool.
+lucfra/FAR-HO,FAR-HO,far_ho,296.0,26,7,517.0,170.0,2.0,4.0,3,38.0,0.0,2.0,14.0,Gradient based hyperparameter optimization & meta-learning package for TensorFlow
+MLBazaar/BTB,BTB,"['btb', 'btb_benchmark']",0,0,21,16928.0,164.0,9.0,10.0,2,39.0,21.0,101.0,214.0,"A simple, extensible library for developing AutoML systems"
+automl/NASLib,NASLib,naslib,1621.0,142,6,136572.0,163.0,11.0,14.0,6,25.0,1.0,85.0,93.0,NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers.
+gdikov/hypertunity,hypertunity,hypertunity,135.0,15,4,1455.0,119.0,1.0,2.0,7,9.0,7.0,44.0,46.0,A toolset for black-box hyperparameter optimisation.
+blobcity/autoai,autoai,blobcity,56.0,10,1,319.0,97.0,4.0,20.0,2,34.0,3.0,127.0,190.0,"Python based framework for Automatic AI for Regression and Classification over numerical data. Performs model search, hyper-parameter tuning, and high-quality Jupyter Notebook code generation."
+run-ai/runai,runai,runai,41.0,2,16,178.0,75.0,2.0,3.0,5,6.0,0.0,11.0,33.0,Run:AI Python library
+udellgroup/oboe,oboe,oboe,138.0,37,14,340290.0,70.0,4.0,2.0,8,13.0,1.0,9.0,14.0,An AutoML pipeline selection system to quickly select a promising pipeline for a new dataset.
+automl/HPOlib2,HPOlib2,"['hpobench', 'HPOBench']",272.0,56,7,688.0,53.0,2.0,5.0,9,13.0,6.0,98.0,138.0,Collection of hyperparameter optimization benchmark problems
+openml-labs/gama,gama,gama,0,0,12,101950.0,48.0,10.0,4.0,9,11.0,8.0,72.0,131.0,An automated machine learning tool aimed to facilitate AutoML research.
+automl/AutoFolio,AutoFolio,autofolio,0,13,7,3014.0,26.0,2.0,4.0,2,9.0,2.0,6.0,14.0,Automated Algorithm Selection with Hyperparameter Optimization
+SkBlaz/autobot,autobot,autoBOTLib,67.0,16,2,14857.0,1.0,3.0,2.0,9,1.0,0.0,1.0,1.0,An autoML for explainable text classification.

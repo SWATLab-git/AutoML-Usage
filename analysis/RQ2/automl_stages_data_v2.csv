@@ -1,0 +1,12 @@
+AutoML,data labeling,model training,model deployment,data cleaning,feature engineering,utility,model monitoring,model evaluation,hyperparameter optimization,data collection,TOTAL,,data labeling,model training,model deployment,data cleaning,feature engineering,utility,model monitoring,model evaluation,hyperparameter optimization,data collection,,AutoML&data collection&data cleaning&data labeling&feature engineering&hyperparameter optimization&model training&model evaluation&model deployment&model monitoring&utility\\
+AutoKeras,0,34,6,3,7,3,0,21,7,3,84,,0,40.5,7.1,3.6,8.3,3.6,0,25,8.3,3.6,,AutoKeras&3.6&3.6&0&8.3&8.3&40.5&25&7.1&0&3.6\\
+Optuna,0,3,1,25,0,3,16,1,88,2,139,,0,2.2,0.7,18,0,2.2,11.5,0.7,63.3,1.4,,Optuna&1.4&18&0&0&63.3&2.2&0.7&0.7&11.5&2.2\\
+Featuretools,0,0,0,4,26,3,1,0,0,5,39,,0,0,0,10.3,66.7,7.7,2.6,0,0,12.8,,Featuretools&12.8&10.3&0&66.7&0&0&0&0&2.6&7.7\\
+AutoSklearn,1,19,1,4,4,4,3,33,3,2,74,,1.4,25.7,1.4,5.4,5.4,5.4,4.1,44.6,4.1,2.7,,AutoSklearn&2.7&5.4&1.4&5.4&4.1&25.7&44.6&1.4&4.1&5.4\\
+hyperopt,0,0,0,2,3,1,2,0,38,6,52,,0,0,0,3.8,5.8,1.9,3.8,0,73.1,11.5,,hyperopt&11.5&3.8&0&5.8&73.1&0&0&0&3.8&1.9\\
+Facebook-Ax,0,2,1,10,0,1,2,0,32,0,48,,0,4.2,2.1,20.8,0,2.1,4.2,0,66.7,0,,Facebook-Ax&0&20.8&0&0&66.7&4.2&0&2.1&4.2&2.1\\
+Skopt,0,1,0,4,0,1,1,1,24,0,32,,0,3.1,0,12.5,0,3.1,3.1,3.1,75,0,,Skopt&0&12.5&0&0&75&3.1&3.1&0&3.1&3.1\\
+Snorkel,20,12,1,16,2,3,0,12,1,7,74,,27,16.2,1.4,21.6,2.7,4.1,0,16.2,1.4,9.5,,Snorkel&9.5&21.6&27&2.7&1.4&16.2&16.2&1.4&0&4.1\\
+Tpot,0,10,8,5,4,2,2,8,4,0,43,,0,23.3,18.6,11.6,9.3,4.7,4.7,18.6,9.3,0,,Tpot&0&11.6&0&9.3&9.3&23.3&18.6&18.6&4.7&4.7\\
+Bayes-opt,0,0,0,2,0,1,1,0,15,0,19,,0,0,0,10.5,0,5.3,5.3,0,78.9,0,,Bayes-opt&0&10.5&0&0&78.9&0&0&0&5.3&5.3\\
+AVERAGE,,,,,,,,,,,,,2.8,11.5,3.1,11.8,9.8,4,3.9,10.8,38,4.2,,AVERAGE&4.2&11.8&2.8&9.8&38&11.5&10.8&3.1&3.9&4\\
